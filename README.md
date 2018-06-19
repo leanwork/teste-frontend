@@ -15,7 +15,7 @@ Seu objetivo é criar um simples app que deve conter duas páginas, uma que exib
 ### Instruções:
  - Deve ser possível criar, listar e excluir os dados cadastrados pelo formulário;
  - Fazer a persistência dos dados no localStorage ou IndexedDB;
- - Implemente o HTML/CSS da tela com base no layout disponível abixo;
+ - Implemente o HTML/CSS da tela com base no layout disponível abaixo;
  - A página deve ser responsiva;
  - Para a interação do formulário utilize preferencialmente angularjs e/ou jQuery;
 
@@ -30,18 +30,18 @@ Seu objetivo é criar um simples app que deve conter duas páginas, uma que exib
  - Crie uma breve descrição da solução utilizada.
 
 ### Plus:
-Uso de task runner
-Uso de pré-processador css;
-Testes End to End;
+ - Uso de task runner
+ - Uso de pré-processador css;
+ - Testes End to End;
 
 
 ## Guia de estilo
 
-### Linear na Imagem
+### Imagem de fundo
+ - Para o overlay na imagem utilizar:
  - Cor inicial: #40c8f4
  - Cor final: #2179b5
-
-![inputs](./images/bg.jpg)
+[(Imagem)](./images/bg.jpg);
 
 ### Label
  - Cor da fonte: <span style="color:#999999">*#999999*</span>.
@@ -67,5 +67,3 @@ Use sua criatividade para criar a página para listar os dados cadastrados
 ### Exemplo final
 
 ![inputs](./images/versao-web.jpg)
-
-** Use sua criatividade para criar a página para listar os dados cadastrados **
