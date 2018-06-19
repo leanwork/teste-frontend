@@ -21,16 +21,16 @@ Seu objetivo é criar um simples app que deve conter duas páginas, uma que exib
 
 ### Você pode:
  - Utilizar bibliotecas css como compass, bourbon, animatecss ou outras;
- - Utilizar componentes do bower.
+ - Utilizar componentes do bower;
  
 ### O que esperamos:
- - Dê suporte a IE10+, Chrome, Safari e Firefox.
+ - Dê suporte a IE10+, Chrome, Safari e Firefox;
  - Padrão de Projeto e boas práticas;
  - Crie um passo a passo de como rodar sua aplicação (Sugestão);
- - Crie uma breve descrição da solução utilizada.
+ - Crie uma breve descrição da solução utilizada;
 
 ### Plus:
- - Uso de task runner
+ - Uso de task runner;
  - Uso de pré-processador css;
  - Testes End to End;
 
