@@ -1,6 +1,6 @@
 ![LeanWork](https://avatars3.githubusercontent.com/u/9724331)
 
-# Teste de Front-end
+# Teste (Front-end)
 Teste para candidatos à vaga de desenvolvedor Front-end na Leanwork.
 
 ### O Desafio
@@ -33,7 +33,6 @@ Seu objetivo é criar um simples app que deve conter duas páginas, uma que exib
  - Uso de task runner;
  - Uso de pré-processador css;
  - Testes End to End;
-
 
 ## Guia de estilo
 
